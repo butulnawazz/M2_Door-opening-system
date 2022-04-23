@@ -14,3 +14,19 @@ A control system is a system, which provides the desired response by controlling
 
 Which sensor is used in automatic door opening?
 optical sensors or motion detectors, which are installed on the sides of the gate to trigger its opening and closing. The sensors detect motion in front of the door.
+
+SWOT ANALYSIS
+STRENGHT:
+Wireless Sensor network (WSN) is an emerging technology and has great potential to be employed in critical situations. The development of wireless sensor networks was originally motivated by military applications like battlefield surveillance.
+
+WEAKNESS:
+Narrow or limited temperature range. They are sensitive to temperature and, therefore, the sensors typically are internally temperature compensated. It is better to keep the sample temperature as stable as possible.
+
+OPPORTUNITIES:
+Style options
+Convenience
+Safety and Security
+
+THREATS:
+Installation and Maintenance
+Pricing
