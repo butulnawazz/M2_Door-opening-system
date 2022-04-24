@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650474697 source:c:\users\azt\documents\door\main.c
+	<avr/io.h>
+
+1650473882 source:c:\users\azt\documents\door\fuse.c
+	<avr/io.h>
+
